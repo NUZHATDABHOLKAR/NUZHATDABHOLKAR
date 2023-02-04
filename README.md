@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nuzhat Dabholkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-- 🌱 I’m currently learning **react redux**
+<!-- - 🌱 I’m currently learning **react redux** -->
 
 - 💬 Ask me about **html,css,tailwind css,javascript and reactjs**
 
